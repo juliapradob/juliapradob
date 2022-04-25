@@ -7,14 +7,13 @@ Minha paixão por software está em sonhar com ideias e torná-las realidade com
 💼 Designer na Imaginarium. Você pode ver meu portfolio <a href="https://readymag.com/u170434072/juliapradob/">aqui</a>.
 <br>
 📚 Estudante de Desenvolvimento Web Full Stack na <a href="https://www.resilia.com.br/">Resilia</a>
-<br>
+<br><br>
 <div>
   <a href="https://github.com/juliapradob">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliapradob&layout=compact&langs_count=7&theme=dracula">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliapradob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 </div>
-<br>
-  
+
 ## 📚 Ferramentas e linguagens:
   <h4>Estudando atualmente:</h5>
     <p align="left"> 
@@ -37,5 +36,3 @@ Minha paixão por software está em sonhar com ideias e torná-las realidade com
     <a href = "mailto:juliapbasile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/juliapradob" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
-  
-![Snake animation](https://github.com/juliapradob/juliapradob/blob/output/github-contribution-grid-snake.svg)
