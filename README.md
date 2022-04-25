@@ -1,4 +1,4 @@
-# Prazer, me chamo Julia :)
+# Oie, eu sou a Julia (ela/dela) :)
 
 Minha paixão por software está em sonhar com ideias e torná-las realidade com interfaces elegantes. Tomo muito cuidado com a experiência, arquitetura, organização e qualidade do código das coisas que construo.
 <br><br>
