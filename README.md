@@ -17,7 +17,7 @@ Minha paixão por software está em sonhar com ideias e torná-las realidade com
   
 ### 📚 Ferramentas e linguagens:
 <br>
-<strong> Estudando atualmente:</strong>
+###### Estudando atualmente:
 <br>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -25,8 +25,7 @@ Minha paixão por software está em sonhar com ideias e torná-las realidade com
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 <br>
-
-<strong> Roadmap da Resilia:</strong>
+###### Roadmap da Resilia:
 <br>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -37,7 +36,7 @@ Minha paixão por software está em sonhar com ideias e torná-las realidade com
 </p>
 <br>
   
-### Contatos:
+# Contatos:
 <br>
 <div>
 <a href="https://instagram.com/juliapradob" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
