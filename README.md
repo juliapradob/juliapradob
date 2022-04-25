@@ -17,7 +17,7 @@ Minha paixão por software está em sonhar com ideias e torná-las realidade com
   
 ### 📚 Ferramentas e linguagens:
 <br>
-###### Estudando atualmente:
+##### Estudando atualmente:
 <br>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
