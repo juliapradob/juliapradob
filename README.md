@@ -15,9 +15,9 @@ Minha paixão por software está em sonhar com ideias e torná-las realidade com
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliapradob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 </div><br>
   
-### 📚 Ferramentas e linguagens:
+## 📚 Ferramentas e linguagens:
 <br>
-##### Estudando atualmente:
+#### Estudando atualmente:
 <br>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -25,7 +25,7 @@ Minha paixão por software está em sonhar com ideias e torná-las realidade com
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 <br>
-###### Roadmap da Resilia:
+#### Roadmap da Resilia:
 <br>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
