@@ -2,9 +2,12 @@
 
 Minha paixão por software está em sonhar com ideias e torná-las realidade com interfaces elegantes. Tomo muito cuidado com a experiência, arquitetura, organização e qualidade do código das coisas que construo.
 <br><br>
-📍 Localizada em São Paulo, SP e aberta para trabalho remoto<br>
-💼 Designer na Imaginarium<br>
-📚 Estudante de Desenvolvimento Web Full Stack na <a href="https://www.resilia.com.br/">Resilia</a><br>
+📍 Localizada em São Paulo, SP e aberta para trabalho remoto
+<br>
+💼 Designer na Imaginarium. Você pode ver meu portfolio <a href="https://readymag.com/u170434072/juliapradob/">aqui</a>.
+<br>
+📚 Estudante de Desenvolvimento Web Full Stack na <a href="https://www.resilia.com.br/">Resilia</a>
+<br>
 <br>
 <div>
 <a href="https://github.com/juliapradob">
@@ -17,8 +20,8 @@ Minha paixão por software está em sonhar com ideias e torná-las realidade com
 <strong> Estudando atualmente:</strong>
 <br>
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 <br>
