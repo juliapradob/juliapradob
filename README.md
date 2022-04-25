@@ -8,11 +8,11 @@ Minha paixão por software está em sonhar com ideias e torná-las realidade com
 <br>
 <div>
 <a href="https://github.com/juliapradob">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliapradob&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliapradob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliapradob&layout=compact&langs_count=7&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliapradob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 </div><br>
   
-📚 Ferramentas e linguagens:
+### 📚 Ferramentas e linguagens:
 <br>
 <strong> Estudando atualmente:</strong>
 <br>
@@ -25,7 +25,7 @@ Minha paixão por software está em sonhar com ideias e torná-las realidade com
 <br>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p><br>
   
-## Contatos:
+# Contatos:
 <br>
 <div>
 <a href="https://instagram.com/juliapradob" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
