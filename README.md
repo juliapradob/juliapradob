@@ -1,6 +1,6 @@
 # Oie, eu sou a Julia (ela/dela) :)
 
-Minha paixão por software está em sonhar com ideias e torná-las realidade com interfaces elegantes. Tomo muito cuidado com a experiência, arquitetura, organização e qualidade do código das coisas que construo.
+Minha paixão por software está em sonhar com ideias e torná-las realidade com interfaces elegantes. Tomo muito cuidado com a experiência, arquitetura, organização e qualidade do código das aplicações que construo.
 <br><br>
 📍 Localizada em São Paulo, SP e aberta para trabalho remoto
 <br>
