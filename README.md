@@ -4,7 +4,9 @@ Minha paixão por software está em sonhar com ideias e torná-las realidade com
 <br><br>
 📍 Localizada em São Paulo, SP e aberta para trabalho remoto
 <br>
-💼 Designer na Imaginarium. Você pode ver meu portfolio <a href="https://readymag.com/u170434072/juliapradob/">aqui</a>.
+🖌 Designer nas horas vagas. Você pode ver meu portfolio <a href="https://readymag.com/u170434072/juliapradob/">aqui</a>.
+<br>
+💼 Analista de Ecommerce na Adcos.
 <br>
 📚 Estudante de Desenvolvimento Web Full Stack na <a href="https://www.resilia.com.br/">Resilia</a>
 <br><br>
